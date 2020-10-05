@@ -45,7 +45,7 @@ More info about the lessons' links (updated google document) [here](https://docs
 Meeting ID: 828 0037 7490
 Passcode: 632658
 ```
-There is an e-learning course [here] (https://elearning.uniroma1.it/course/view.php?id=11878).
+There is an e-learning course [here](https://elearning.uniroma1.it/course/view.php?id=11878).
 
 <!---
 Template:
