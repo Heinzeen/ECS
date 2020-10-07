@@ -3,11 +3,11 @@
 ## Algorithm Design (AD)
 **Course site:** [Here](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/didattica/algorithm-desogn-2020-2021). \
 *Professor's site:* [Prof Leonardi](https://sites.google.com/a/uniroma1.it/stefanoleonardi-eng/) \
-*Zoom info:* [Meeting's link](https://zoom.us/j/96455818613?pwd=MXpjdTR3eTJuKzk5Mk5PQzRGejhnQT09)
+*Zoom info:* [Meeting's link](https://zoom.us/j/98280586736?pwd=ZW54S1RSeHdLY3RhbXUvR3BBZkd2Zz09#success)
 
 ```
-Meeting ID: 964 5581 8613
-Passcode: 1ndcS79wRT
+Meeting ID: 982 8058 6736
+Passcode: QprF44emqE
 ```
 There is a piazza page at [this](https://piazza.com/uniroma1.it/fall2020/ad20202021) link.
 
