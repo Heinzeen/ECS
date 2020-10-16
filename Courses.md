@@ -44,13 +44,14 @@ More info about the lessons' links (updated google document) [here](https://docs
 ## Network Infrastructures (NI)
 **Course site:** [Here](http://francescacuomo.site.uniroma1.it/didattica/network-infrastructures-20-21). \
 *Professor's site:* [Prof Cuomo](http://francescacuomo.site.uniroma1.it/home) \
+*Laboratory Site:* [Here](http://demons.netgroup.uniroma2.it/~marco/network_infrastructures/current/marr_minr/?)\
 *Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/82800377490?pwd=ZTc2WG5vdGdrbDNoTVhIeDh0L2krdz09)
 
 ```
 Meeting ID: 828 0037 7490
 Passcode: 632658
 ```
-There is an e-learning course [here](https://elearning.uniroma1.it/course/view.php?id=11878).
+There is an e-learning course [here](https://elearning.uniroma1.it/course/view.php?id=11878).\
 
 <!---
 Template:
