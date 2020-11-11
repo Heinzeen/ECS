@@ -33,7 +33,7 @@ Passcode: 728538
 ## Machine Learning (ML)
 **Course site:** [Here](https://sites.google.com/diag.uniroma1.it/machine-learning). Plus, there is a Google Classroom. \
 *Professor's site:* [Prof Iocchi](https://sites.google.com/a/dis.uniroma1.it/iocchi/home) \
-*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/83319486168?pwd=cUxmK1phRzhoWTIvellXdDhuSVV3UT09)
+*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/83319486168?pwd=cUxmK1phRzhoWTIvellXdDhuSVV3UT09) \
 *Zoom info (Iocchi):* [Meeting's link](https://uniroma1.zoom.us/j/85909012464?pwd=OEdGMHNLM3lNWGF5R3VFaDdTcHZSUT09)
 
 ```
