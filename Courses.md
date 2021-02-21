@@ -1,6 +1,6 @@
 # Courses information
 
-## [AOSV] Advanced Operating System and Virtualization
+## [AOSV] Advanced Operating Systems and Virtualization
 **Course site:** [Here](https://gpm.name/teaching/2021-aosv/). \
 *Professor's site:* [Prof](https://www.diag.uniroma1.it//~beraldi/) \
 *Zoom info:* [Meeting's link]()
