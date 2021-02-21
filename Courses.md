@@ -14,6 +14,11 @@ There also is a Google classroom for this course.
 
 There also is a moodle class for this course.
 
+## [FM] Formal Methods
+**Course site:** [Here](https://sites.google.com/diag.uniroma1.it/fm-degiacomo-2020-2021). \
+*Professor's site:* [Prof]() \
+*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/7737376235)
+
 ## [PND] Practical Network Defense
 **Course site:** [Here](https://sites.google.com/di.uniroma1.it/netdef2021). \
 *Professor's site:* [Prof]() \
