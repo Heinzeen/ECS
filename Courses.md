@@ -14,6 +14,13 @@ There also is a Google classroom for this course.
 
 There also is a moodle class for this course.
 
+## [PND] Practical Network Defense
+**Course site:** [Here](https://sites.google.com/di.uniroma1.it/netdef2021). \
+*Professor's site:* [Prof]() \
+*Zoom info:* [Meeting's link]()
+
+There also is a Google classroom for this course. [zoom and classroom still need to be created]
+
 
 <!---
 Template:
