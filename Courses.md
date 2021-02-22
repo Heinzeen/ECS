@@ -26,6 +26,10 @@ There also is a moodle class for this course.
 
 There also is a Google classroom for this course. [zoom and classroom still need to be created]
 
+## [WIR] Web Information Retrieval
+**Course site:** [Here](). \
+*Professor's site:* [Prof]() \
+*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/84520060285?pwd=TFJFUk9NN0VUa1MzbTRSb1hSbnJXUT09)
 
 <!---
 Template:
