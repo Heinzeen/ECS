@@ -21,8 +21,8 @@ There also is a moodle class for this course.
 
 ## [PND] Practical Network Defense
 **Course site:** [Here](https://sites.google.com/di.uniroma1.it/netdef2021). \
-*Professor's site:* [Prof]() \
-*Zoom info:* [Meeting's link]()
+*Professor's site:* [Prof](https://angelospognardi.site.uniroma1.it/home) \
+*Zoom info:* [Meeting's link]( https://uniroma1.zoom.us/meeting/attendee/tZYrceCrrTopGNTkYnt19MYf3oPbkHD0f9NG/ics?user_id=PboM_rUATj2a0QkHmSI5ng)
 
 There also is a Google classroom for this course. [zoom and classroom still need to be created]
 
