@@ -3,7 +3,7 @@
 ## [AOSV] Advanced Operating Systems and Virtualization
 **Course site:** [Here](https://gpm.name/teaching/2021-aosv/). \
 *Professor's site:* [Prof](https://www.diag.uniroma1.it//~beraldi/) \
-*Zoom info:* [Meeting's link]()
+*Zoom info:* [Meeting's link](https://meet.google.com/lookup/fsniymb4hc?authuser=0&hs=179)
 
 There also is a Google classroom for this course.
 
