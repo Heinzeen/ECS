@@ -3,7 +3,7 @@
 ## [AOSV] Advanced Operating Systems and Virtualization
 **Course site:** [Here](https://gpm.name/teaching/2021-aosv/). \
 *Professor's site:* [Prof](https://www.diag.uniroma1.it//~beraldi/) \
-*Zoom info:* [Meeting's link]()
+*Zoom info:* [Meeting's link](https://meet.google.com/ekb-ntmw-vdi?authuser=0)
 
 There also is a Google classroom for this course.
 
@@ -21,15 +21,15 @@ There also is a moodle class for this course.
 
 ## [PND] Practical Network Defense
 **Course site:** [Here](https://sites.google.com/di.uniroma1.it/netdef2021). \
-*Professor's site:* [Prof]() \
-*Zoom info:* [Meeting's link]()
+*Professor's site:* [Prof](https://angelospognardi.site.uniroma1.it/home) \
+*Zoom info:* [Meeting's link]( https://uniroma1.zoom.us/w/82669331320?tk=-uhsEcDKtH5fLZHmHfozJrnzHRcTVKLluOO2RyHDHLo.DQIAAAATP3njeBZQYm9NX3JVQVRqMmEwUWtIbVNJNW5nAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=Mjllc045MDFWeS95SUhuM252VnNCUT09)
 
 There also is a Google classroom for this course. [zoom and classroom still need to be created]
 
-## [WIR] Web Information Retrieval
-**Course site:** [Here](). \
-*Professor's site:* [Prof]() \
-*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/84520060285?pwd=TFJFUk9NN0VUa1MzbTRSb1hSbnJXUT09)
+## [SE] Software Engineering
+**Course site:** on Classroom\
+*Professor's site:* [Prof](https://sites.google.com/dis.uniroma1.it/mecellone/home) \
+*Zoom info:* [Meeting's link](https://uniroma1.zoom.us/j/81612183132?pwd=bUE3NDNqK3dwbXE5WGllSTBST1R6dz09)
 
 <!---
 Template:
