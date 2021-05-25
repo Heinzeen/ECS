@@ -1,0 +1,94 @@
+Links:
+    fair-loss
+    stubborn
+    perfect
+
+Physical clock:
+    skew and drift rate
+    UTC
+    internal/external syncrhonization
+    Christian's algorithm
+    Berkeley's algorithm
+    network time protocol (NTP)
+
+Logical clock:
+    happened-before relationship
+    scalar and vector logical clocks
+    mutual exclusion:
+        Lamport's algorithm
+        Ricart-Agrawala's algorithm
+    
+Failure detectors:
+    perfect failure detector
+    eventually perfect failure detector
+
+Leader election:
+    leader election
+    eventual leader election
+    elect lower epoch
+
+Broadcasts:
+    best effort broadcast
+    reliable broadcast (lazy and eager)
+    uniform reliable broadcast (all-ack and majority ack)
+    probablistic broadcast
+
+Consensus:
+    FLP result
+    consensus algorithm (flooding, O(n^3))
+    uniform consensus algorithm (flooding, O(N))
+
+Paxos
+
+Ordered communications:
+    FIFO broadcast (uniform and reegular)
+    causal broadcast (waiting and no-waiting)
+    total order broadcast
+
+Total order:
+    strong and weak uniform (SUTO and WUTO)
+    strong and weak non uniform (SNUTO and WNUTO)
+
+Registers:
+    regular register
+    atomic register
+    read-one write-all (regular register)
+    majority voting (regular register)
+    from (1,N) regular to (1,1) atomic
+    from (1,1) atomic to (1,N) atomic
+
+software replication:
+    linearizablity
+    passive replication
+    active replication
+
+CAP theorem:
+    proof intuition
+    ACID and BASE
+    latency
+    PACELC
+    partition management
+
+BFT broadcast:
+    authenticated perfect Link
+    byzantine consistent broadcast
+    byzantine reliable broadcast
+
+BFT registers:
+    byzantine tolerant safe register
+    byzantine masking quorum
+    authenticated data byzantine quorum
+    double-write byzantine quorum
+
+BFT consensus:
+    weak byzantine consensus
+    strong byzantine consensus
+    oral message
+
+DLT and Blockchain:
+    transaction and blocks
+    blockchain classification
+    private permissioned blockchain
+    PBFT
+    public permissionless blockchain
+    mining

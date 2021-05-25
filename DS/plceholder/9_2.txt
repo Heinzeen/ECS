@@ -1,0 +1,45 @@
+implementing  urb
+using perfect failure detector pfd
+using fair loss links fll
+
+upon event init
+    correct = {p1, ..., pn}
+    send_list = {}
+    delivered = {}
+    timer = D
+    ack = {{}}
+    ack_sent = {}
+    start_timer(D)
+
+upon event pfd(crash| p):
+    correct -= p
+
+
+upon event timer:
+    for all (type, msg) in send_list:
+        for all p in correct
+            trigger fll(send| [type], msg)
+    start_timer(D)
+
+
+upon event urb(broadcast| [broad], m):
+    send_list += ([broad], m)
+
+
+upon event fll(deliver| [broad], m):
+    if ([broad], m) not in delivered:
+        delivered += ([broad], m)
+        send_list += ([ack], m)
+        ack_sent[m] = true
+
+
+upon event fll(deliver| [ack], m) from q:
+    if ([ack], m) not in delivered:
+        delivered += ([ack], m)
+        ack[m] += q
+        if ack_sent[m] == false:
+            send_list += ([ack], m)
+
+
+upon exists m such that correct in ack[m]:
+    trigger urb(deliver| m)

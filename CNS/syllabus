@@ -1,0 +1,151 @@
+Symmetric ciphers1
+	Caesar's cipher
+	substitution cipher
+	OTP (perfect cipher)
+	stream and block ciphers
+	LFSR (GSM)
+	RC-4
+	operation modes
+		ECB-CBC-PCBC-OFB-CFB-CTR
+	padding (+padding oracle attack)
+	DES (+Feistel network)
+	
+Mathematical backround 1
+	modular arithmetic
+	group-ring-field
+	(extended) Euclidian algorithm
+	
+AES (symmetric ciphers 2)
+	byte substitution layer
+	shiftrow
+	mixcolumn
+	key addition
+		key schedule
+		
+Asymmetric ciphers 1
+	intro
+	
+Mathematical background 2
+	Euler's phi function (Totient)
+	Euler's theorem
+	chinese remainder theorem
+	groups
+		cyclic groups
+	DLP
+	integer factorization problem (IFP)
+	exponentiation (SAM)
+	
+Asymmetrix ciphers 2
+	Diffie Hellman
+		properties and attacks
+	Elgamal
+	RSA
+		scheme
+		encryption & decryption
+		key generation
+		attacks
+			X>N (problem, not an attack)
+			p and q has a common factor
+			small X and small e
+			same exponent
+			power analysis
+		padding
+		
+Hash functions
+	safety requirements
+		preimage resistance (one wayness)
+		second preimage resistance (weak collision resistance)
+		collision resistance (strong collision resistance)
+	birthday paradox
+	merkle damgard construction
+	md5
+	sha-1
+	sha-3
+		internals
+
+Random and prime numbers
+	types of generators
+		RNG
+		PRNG
+		LCG (linear congruential generator)
+		CSPRNG
+	Kenrel entropy
+	primality test
+		Fermat
+		Miller-Rabin
+
+Message authentication code
+	block ciphers
+		variable land fixed legnth
+	hash fucntions
+		secret prefix and secret suffix
+	HMAC
+	authenticated encryption (AE)
+		encrypt then mac
+		encrypt and mac
+		mac then ancrypt
+		
+Digital signatures
+	forgery (existential, selective, universal)
+	Elgamal signature
+		reuse of ephemeral key
+	DSA
+
+Authentication 1
+	authenticate people
+		what you know/have
+		who/where you are
+	OTP (one time password)
+		HMAC based
+		time based
+	passwords
+		salt
+		Lamport's hash
+	EKE (SPEKE & PDM)
+
+Authentication 2
+	challenge/response
+	reflection attack
+	authentication based on trusted party
+		Needham-Schroeder
+		replay attack
+	Kerberos
+		KDC
+		tickets
+		realms
+		
+Authentication 3
+	Needham-Schroeder public key protocol
+		MITM attack
+	X.509
+		PKI (public key infrastructure)
+		CA
+		certificates
+		chain of trust
+		revocation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
